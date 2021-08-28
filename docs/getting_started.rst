@@ -120,7 +120,9 @@ modules that add functionality to Red. They contain
 commands to use.
 
 Red comes with 19 cogs containing the basic features, such
-as moderation, utility, music, streams...
+as moderation, utility, music, streams, bank, custom commands, 
+imgur/gif commands, admin automation, customisable command 
+permission,...
 
 You can see your loaded and unloaded cogs with the ``[p]cogs``
 command. By default, all cogs will be unloaded.
